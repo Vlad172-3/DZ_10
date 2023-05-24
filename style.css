@@ -1,0 +1,14 @@
+.container {
+    background-color: #b6e0fc;
+    margin: 10px;
+    min-height: 75px;
+    text-align: center;
+}
+.addClass {
+    background: #f66668;
+    border-radius: 50% 0 50% 0;
+    width: 200px;
+    height: 120px;
+    line-height: 80px;
+    text-align: center;
+}
